@@ -106,31 +106,3 @@ butt.grid(row=4, column=1)
 butto.grid(row=5, column=0)
 button.grid(row=6, column=0)
 w1.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
